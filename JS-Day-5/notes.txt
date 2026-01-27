@@ -1,0 +1,3 @@
+Callstack : - It is a process and a mechanisim which keeps tracks of every process running in the background or javascript codes.
+It stores Global execution context and function execution context.
+After the processing of code it will pop(delete) out the FEC then GEC at the end.
