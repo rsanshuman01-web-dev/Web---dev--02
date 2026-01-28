@@ -1,0 +1,5 @@
+• When we are using query selector then e have to put (#) and (.) in the id and class name.
+
+
+•Decendent selector - It selects the elements hat are inside another inside. It doesnot need to be direct child  - Just somewhere else.
+A descendant selector selects elements that are inside another element, using a space between the selectors.
